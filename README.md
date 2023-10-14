@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=DingHsun&theme=vue-dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DingHsun&layout=compact&theme=vue-dark)
+
 <!--
 **DingHsun/DingHsun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
