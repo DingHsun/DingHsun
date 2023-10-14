@@ -1,4 +1,8 @@
-### Hi there 👋
+🔭 竹陞科技股份有限公司 - 軟體工程師。
+
+🌱 目前致力於影像視覺(Computer Vision)、物體辨識(Object Detection)和深度學習推理部署。  
+
+👯 使用C++之Onnxruntime部屬Yolo, PaddleOCR, Pytorch自建立神經網路等。
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=DingHsun&theme=vue-dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DingHsun&layout=compact&theme=vue-dark)
